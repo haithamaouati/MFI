@@ -8,7 +8,7 @@ This simple script was written for beginners to automatically install Metasploit
 ### Screenshot:
 ![mfi](https://raw.githubusercontent.com/haithamaouati/MFI/main/screenshot.png)
 
-### Platform
+### Platform:
 
 - Termux
 
