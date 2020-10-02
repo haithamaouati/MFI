@@ -5,7 +5,7 @@ Automatic install Metasploit-Framework
 ## About:
 This simple script was written for beginners to automatically install Metasploit-Framework on Termux.
 
-### ScreenShot:
+### Screenshot:
 ![mfi](https://raw.githubusercontent.com/haithamaouati/MFI/main/screenshot.png)
 
 ### Platform
