@@ -1,5 +1,7 @@
 # Metasploit-Framework Install
 ## Author: https://github.com/haithamaouati
+## Facebook: https://www.facebook.com/haithamaouati
+## Group: https://www.facebook.com/groups/elitecrew1
 Automatic install Metasploit-Framework
 
 ## About:
