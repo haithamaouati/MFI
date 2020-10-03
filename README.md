@@ -2,7 +2,7 @@
 
 Automatic install Metasploit-Framework.
 
-<h3 align="center"><img src="https://i.imgur.com/U6hdAfL.png" alt="logo"></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/haithamaouati/MFI/main/MFI.png" alt="logo"></h3>
 
 <p align="center">
   <a href="http:s//hawkha.blogspot.com/">
@@ -10,12 +10,6 @@ Automatic install Metasploit-Framework.
   </a> 
   <a href="https://wikipedia.org/wiki/Python_(programming_language)">
     <img src="https://img.shields.io/badge/language-python-blue.svg">
- </a>
-  <a href="https://github.com/haithamaouati/mfi/issues?q=is%3Aissue+is%3Aclosed">
-      <img src="https://img.shields.io/github/issues/haithamaouati/mfi.svg">
-  </a>
-  <a href="https://github.com/haithamaouati/mfi/wiki">
-      <img src="https://img.shields.io/badge/wiki%20-mfi-lightgrey.svg">
  </a>
   <a href="https://facebook.com/haithamaouati">
     <img src="https://img.shields.io/badge/facebook-haithamaouati-blue.svg">
