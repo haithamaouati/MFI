@@ -2,22 +2,44 @@
 
 Automatic install Metasploit-Framework.
 
-## ✨ About
-This simple script was written for beginners to automatically install Metasploit-Framework on Termux.
+<h3 align="center"><img src="https://i.imgur.com/U6hdAfL.png" alt="logo" height="250px"></h3>
 
-### Screenshot
+<p align="center">
+  <a href="http:s//hawkha.blogspot.com/">
+    <img src="https://img.shields.io/badge/hawkha-Haitham%20Aouati-blue.svg">
+  </a> 
+  <a href="https://wikipedia.org/wiki/Python_(programming_language)">
+    <img src="https://img.shields.io/badge/language-python-blue.svg">
+ </a>
+  <a href="https://github.com/haithamaouati/mfi/issues?q=is%3Aissue+is%3Aclosed">
+      <img src="https://img.shields.io/github/issues/haithamaouati/mfi.svg">
+  </a>
+  <a href="https://github.com/haithamaouati/mfi/wiki">
+      <img src="https://img.shields.io/badge/wiki%20-mfi-lightgrey.svg">
+ </a>
+  <a href="https://facebook.com/haithamaouati">
+    <img src="https://img.shields.io/badge/facebook-haithamaouati-blue.svg">
+ </a>
+</p>
+
 ![mfi](https://raw.githubusercontent.com/haithamaouati/MFI/main/screenshot.png)
+
+***
+
+## ✨ About
+```
+This simple script was written for beginners to automatically install Metasploit-Framework on Termux.
+```
 
 ## Installation
 
 This script only works on [Termux](https://termux.com/).
 
-```bash
-git clone https://github.com/haithamaouati/mfi.git
-cd MFI
-chmod +x MFI.py
-python MFI.py
-```
+
+> git clone https://github.com/haithamaouati/mfi.git
+> cd MFI
+> chmod +x MFI.py
+> python MFI.py
 
 ## Author
 
