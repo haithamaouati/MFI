@@ -1,4 +1,5 @@
-# Author: HawkHA
+# Author: Haitham Aouati
+# Github: @haithamaouati
 
 import os
 
@@ -9,6 +10,9 @@ print("""
  | |\/| ||  _|   | |  by HawkHA
  | |  | || |    _| |_ 
  \_|  |_/\_|    \___/ 
+
+ Author: Haitham Aouati
+ Github: @haithamaouati
 """)
 
 print("Metasploit-Framework Install")
