@@ -22,7 +22,7 @@ python MFI.py
 ## Author
 
 👤 **Haitham Aouati**
-
+My nickname is HawkHA
 - Facebook: [@haithamaouati](https://twitter.com/haithamaouati)
 - Github: [@haithamaouati](https://github.com/haithamaouati)
 - Group: [@elitecrew1](https://www.facebook.com/groups/elitecrew1)
@@ -33,9 +33,9 @@ Please ⭐️ this repository if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [Haitham Aouati](https://github.com/haithamaouati).<br />
+Copyright © 2020 [HawkHA](https://github.com/haithamaouati).<br />
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ---
 
-_Made with ❤️ by [Haitham Aouati](https://github.com/haithamaouati/)_
+_Made with ❤️ by [HawkHA](https://github.com/haithamaouati/)_
