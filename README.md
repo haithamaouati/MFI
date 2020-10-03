@@ -2,7 +2,7 @@
 
 Automatic install Metasploit-Framework.
 
-<h3 align="center"><img src="https://i.imgur.com/U6hdAfL.png" alt="logo" height="250px"></h3>
+<h3 align="center"><img src="https://i.imgur.com/U6hdAfL.png" alt="logo"></h3>
 
 <p align="center">
   <a href="http:s//hawkha.blogspot.com/">
