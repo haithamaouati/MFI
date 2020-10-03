@@ -29,13 +29,18 @@ Automatic install Metasploit-Framework.
 This simple script was written for beginners to automatically install Metasploit-Framework on Termux.
 ```
 
+***
+
 ## Installation
 
 This script only works on [Termux](https://termux.com/).
 
 > git clone https://github.com/haithamaouati/mfi.git
+
 > cd MFI
+
 > chmod +x MFI.py
+
 > python MFI.py
 
 ***
