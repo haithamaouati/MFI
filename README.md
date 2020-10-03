@@ -2,7 +2,7 @@
 
 Automatic install Metasploit-Framework.
 
-## About
+## ✨ About
 This simple script was written for beginners to automatically install Metasploit-Framework on Termux.
 
 ### Screenshot
@@ -25,6 +25,7 @@ python MFI.py
 
 - Facebook: [@haithamaouati](https://twitter.com/haithamaouati)
 - Github: [@haithamaouati](https://github.com/haithamaouati)
+- Group: [@elitecrew1](https://www.facebook.com/groups/elitecrew1)
 
 ## Show your support
 
@@ -33,7 +34,7 @@ Please ⭐️ this repository if this project helped you!
 ## 📝 License
 
 Copyright © 2020 [Haitham Aouati](https://github.com/haithamaouati).<br />
-This project is [MIT](https://www.facebook.com/groups/elitecrew1) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ---
 
